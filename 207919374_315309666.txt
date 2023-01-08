@@ -1,0 +1,12 @@
+207919374_315309666
+
+Github link:
+https://github.com/Gil4390/3D_task3.git
+
+The files that changed are:
+1) BasicScene.h
+2) BasicScene.cpp
+
+Bonus:
+we did the FABRIK implementation as well,
+you can switch between the CCD and FABRIK using c
